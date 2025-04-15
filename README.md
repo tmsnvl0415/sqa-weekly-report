@@ -43,9 +43,8 @@ python weekly_report.py
  - 누적 이슈 커브 그래프 (자동 이미지 삽입됨)
 
 
-## 작성자자
-
-김예지 
+## 👩‍💻 작성자
+김예지  
 SQA Engineer
 GitHub: [@tmsnvl0415](https://github.com/tmsnvl0415)
 
